@@ -1,0 +1,12 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Optional: Customize global styles */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f9fafb;
+  }
+}
